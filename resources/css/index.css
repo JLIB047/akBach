@@ -1,0 +1,13 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: blue;
+    font-weight: bold;
+}
+
+img {
+    height: 200px;
+    width: 200px; 
+}
